@@ -1,9 +1,4 @@
-
-#
-# Dockerfile for docker-simple-file-upload
-#
-
-FROM node:8-alpine
+FROM node:14-alpine
 RUN mkdir -p /code
 WORKDIR /code
 ADD . /code
