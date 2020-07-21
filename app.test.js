@@ -1,7 +1,3 @@
-
-/* Integration tests
- */
-
 const fs = require('fs')
 const request = require('supertest')
 const app = require('./app')
