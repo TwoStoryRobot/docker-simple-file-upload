@@ -1,6 +1,6 @@
 {
   "name": "docker-simple-file-upload",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "A simple and secure file upload API endpoint",
   "repository": "https://github.com/TwoStoryRobot/docker-simple-file-upload",
   "scripts": {
