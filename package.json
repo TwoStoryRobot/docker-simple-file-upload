@@ -14,7 +14,7 @@
     "express-fileupload": "^1.4.0"
   },
   "devDependencies": {
-    "jest": "^29.6.4",
+    "jest": "^29.7.0",
     "supertest": "^6.3.3"
   }
 }
